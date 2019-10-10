@@ -1,0 +1,8 @@
+G:\Lee\Net-Core-DDD\Christ3D\Christ3D.Domain\bin\Debug\netcoreapp2.2\Christ3D.Domain.deps.json
+G:\Lee\Net-Core-DDD\Christ3D\Christ3D.Domain\bin\Debug\netcoreapp2.2\Christ3D.Domain.dll
+G:\Lee\Net-Core-DDD\Christ3D\Christ3D.Domain\bin\Debug\netcoreapp2.2\Christ3D.Domain.pdb
+G:\Lee\Net-Core-DDD\Christ3D\Christ3D.Domain\obj\Debug\netcoreapp2.2\Christ3D.Domain.csproj.CoreCompileInputs.cache
+G:\Lee\Net-Core-DDD\Christ3D\Christ3D.Domain\obj\Debug\netcoreapp2.2\Christ3D.Domain.AssemblyInfoInputs.cache
+G:\Lee\Net-Core-DDD\Christ3D\Christ3D.Domain\obj\Debug\netcoreapp2.2\Christ3D.Domain.AssemblyInfo.cs
+G:\Lee\Net-Core-DDD\Christ3D\Christ3D.Domain\obj\Debug\netcoreapp2.2\Christ3D.Domain.dll
+G:\Lee\Net-Core-DDD\Christ3D\Christ3D.Domain\obj\Debug\netcoreapp2.2\Christ3D.Domain.pdb

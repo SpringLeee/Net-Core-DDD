@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris3D.UI.Web", "Chris3D.UI.Web\Chris3D.UI.Web.csproj", "{72068596-CEDC-4560-ABD6-56D78D2CDAA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Christ3D.Domain", "Christ3D.Domain\Christ3D.Domain.csproj", "{D1534ED3-3E2B-4F54-B71E-C3BCFE78444E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Christ3D.Infrastruct.Data", "Christ3D.Infrastruct.Data\Christ3D.Infrastruct.Data.csproj", "{9796CACA-BCE4-4C20-9359-7212C8AE4D72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Christ3D.Application", "Christ3D.Application\Christ3D.Application.csproj", "{EB4892C2-39DA-4F9A-8773-70BD3DB78088}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{72068596-CEDC-4560-ABD6-56D78D2CDAA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72068596-CEDC-4560-ABD6-56D78D2CDAA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72068596-CEDC-4560-ABD6-56D78D2CDAA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1534ED3-3E2B-4F54-B71E-C3BCFE78444E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1534ED3-3E2B-4F54-B71E-C3BCFE78444E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1534ED3-3E2B-4F54-B71E-C3BCFE78444E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1534ED3-3E2B-4F54-B71E-C3BCFE78444E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9796CACA-BCE4-4C20-9359-7212C8AE4D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9796CACA-BCE4-4C20-9359-7212C8AE4D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9796CACA-BCE4-4C20-9359-7212C8AE4D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9796CACA-BCE4-4C20-9359-7212C8AE4D72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB4892C2-39DA-4F9A-8773-70BD3DB78088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4892C2-39DA-4F9A-8773-70BD3DB78088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4892C2-39DA-4F9A-8773-70BD3DB78088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4892C2-39DA-4F9A-8773-70BD3DB78088}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
